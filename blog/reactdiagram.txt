@@ -1,0 +1,321 @@
+1:"$Sreact.fragment"
+2:I[31725,["2619","static/chunks/2619-04bc32f026a0d946.js","1356","static/chunks/1356-1fb83b63ccda55b7.js","7177","static/chunks/app/layout-6ec40e3264443086.js"],"default"]
+3:I[9766,[],""]
+4:I[98924,[],""]
+5:I[81356,["2619","static/chunks/2619-04bc32f026a0d946.js","1356","static/chunks/1356-1fb83b63ccda55b7.js","8974","static/chunks/app/page-582ea57ab1f262de.js"],"Image"]
+d:I[57150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/c970b3374a091b39.css","style"]
+0:{"P":null,"b":"7SN3E8QZQUrIJ7d94uNa6","p":"","c":["","blog","reactdiagram"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","reactdiagram","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c970b3374a091b39.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"__variable_f367f3","children":["$","body",null,{"className":"font-sans antialiased bg-gray-900 text-white min-h-screen","children":["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1 py-8 px-4 sm:px-6 lg:px-8 pb-20 md:pb-8","children":["$","div",null,{"className":"max-w-6xl mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white/5 backdrop-blur-md border-t border-white/10 mt-20","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"flex flex-row justify-between items-center gap-8","children":[["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-center space-x-3","children":[["$","div",null,{"className":"w-8 h-8 rounded-full overflow-hidden","children":["$","$L5",null,{"src":"/msm.jpeg","alt":"MSM Profile","width":32,"height":32,"className":"w-full h-full object-cover"}]}],["$","span",null,{"className":"text-xl font-bold text-white","children":"msm.dev"}]]}],["$","p",null,{"className":"text-gray-400 text-sm","children":["개발자라서 즐거운",["$","br",null,{}],"Front-end Developer MSM"]}]]}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"mailto:masungmin.dev@gmail.com","className":"text-gray-400 hover:text-white transition-colors duration-200","aria-label":"이메일","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"}]}]}],["$","a",null,{"href":"https://github.com/masungmin-dev","className":"text-gray-400 hover:text-white transition-colors duration-200","aria-label":"GitHub","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"}]}]}],"$L6"]}]]}],"$L7"]}]}],"$L8"]}]}]}]]}],{"children":["blog","$L9",{"children":[["slug","reactdiagram","d"],"$La",{"children":["__PAGE__","$Lb",{},null,false]},null,false]},null,false]},null,false],"$Lc",false]],"m":"$undefined","G":["$d",[]],"s":false,"S":true}
+e:I[79240,["2619","static/chunks/2619-04bc32f026a0d946.js","1356","static/chunks/1356-1fb83b63ccda55b7.js","7177","static/chunks/app/layout-6ec40e3264443086.js"],"default"]
+10:I[24431,[],"OutletBoundary"]
+12:I[15278,[],"AsyncMetadataOutlet"]
+14:I[24431,[],"ViewportBoundary"]
+16:I[24431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+6:["$","a",null,{"href":"https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EB%A7%88-306256194","className":"text-gray-400 hover:text-white transition-colors duration-200","aria-label":"LinkedIn","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}]}]
+7:["$","div",null,{"className":"mt-8 pt-8 border-t border-white/10","children":["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center gap-4","children":[["$","div",null,{"className":"flex items-center","children":["$","a",null,{"href":"https://hits.sh/masungmin-dev.github.io/","children":["$","img",null,{"alt":"Hits","src":"https://hits.sh/masungmin-dev.github.io.svg?style=flat-square&label=Thanks%20for%20visit&color=616161&labelColor=424242"}]}]}],["$","p",null,{"className":"text-gray-400 text-sm order-1 md:order-2","children":["© ",2025," msm.dev. All rights reserved."]}]]}]}]
+8:["$","$Le",null,{}]
+9:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+c:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[52619,["590","static/chunks/0dbeb660-c36e335de0d55418.js","2619","static/chunks/2619-04bc32f026a0d946.js","7485","static/chunks/7485-0e57fd9e4a68a3f7.js","5953","static/chunks/app/blog/%5Bslug%5D/page-d3d26fb3dc9355df.js"],""]
+f:["$","div",null,{"className":"flex flex-col lg:flex-row gap-8","children":[["$","div",null,{"className":"hidden lg:block","children":["$","aside",null,{"className":"lg:w-64 lg:flex-shrink-0","children":["$","div",null,{"className":"lg:sticky lg:top-24 sticky-sidebar","children":["$","div",null,{"className":"glass-effect rounded-xl p-4","children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3","children":"태그"}],["$","div",null,{"className":"space-y-1","children":[["$","$L19",null,{"href":"/blog","className":"block w-full text-left px-3 py-2 rounded-lg transition-colors duration-200 text-sm bg-blue-500/20 text-blue-300","children":["전체 (",7,")"]}],[["$","$L19","javascript",{"href":"/blog?tag=javascript","className":"flex w-full text-left px-3 py-2 rounded-lg transition-colors duration-200 items-center justify-between text-sm text-gray-400 hover:text-white hover:bg-gray-700/50","children":[["$","span",null,{"children":"javascript"}],["$","span",null,{"className":"text-xs text-gray-500","children":4}]]}],["$","$L19","React.js",{"href":"/blog?tag=React.js","className":"flex w-full text-left px-3 py-2 rounded-lg transition-colors duration-200 items-center justify-between text-sm text-gray-400 hover:text-white hover:bg-gray-700/50","children":[["$","span",null,{"children":"React.js"}],["$","span",null,{"className":"text-xs text-gray-500","children":3}]]}],["$","$L19","github",{"href":"/blog?tag=github","className":"flex w-full text-left px-3 py-2 rounded-lg transition-colors duration-200 items-center justify-between text-sm text-gray-400 hover:text-white hover:bg-gray-700/50","children":[["$","span",null,{"children":"github"}],["$","span",null,{"className":"text-xs text-gray-500","children":2}]]}],["$","$L19","Langchain",{"href":"/blog?tag=Langchain","className":"flex w-full text-left px-3 py-2 rounded-lg transition-colors duration-200 items-center justify-between text-sm text-gray-400 hover:text-white hover:bg-gray-700/50","children":[["$","span",null,{"children":"Langchain"}],["$","span",null,{"className":"text-xs text-gray-500","children":1}]]}],["$","$L19","git",{"href":"/blog?tag=git","className":"flex w-full text-left px-3 py-2 rounded-lg transition-colors duration-200 items-center justify-between text-sm text-gray-400 hover:text-white hover:bg-gray-700/50","children":[["$","span",null,{"children":"git"}],["$","span",null,{"className":"text-xs text-gray-500","children":1}]]}],["$","$L19","잡소리",{"href":"/blog?tag=%EC%9E%A1%EC%86%8C%EB%A6%AC","className":"flex w-full text-left px-3 py-2 rounded-lg transition-colors duration-200 items-center justify-between text-sm text-gray-400 hover:text-white hover:bg-gray-700/50","children":[["$","span",null,{"children":"잡소리"}],["$","span",null,{"className":"text-xs text-gray-500","children":1}]]}],["$","$L19","Next.js",{"href":"/blog?tag=Next.js","className":"flex w-full text-left px-3 py-2 rounded-lg transition-colors duration-200 items-center justify-between text-sm text-gray-400 hover:text-white hover:bg-gray-700/50","children":[["$","span",null,{"children":"Next.js"}],["$","span",null,{"className":"text-xs text-gray-500","children":1}]]}]]]}]]}]}]}]}],["$","div",null,{"className":"flex-1 min-w-0","children":[["$","div",null,{"className":"mb-8","children":["$","$L19",null,{"href":"/blog","className":"inline-flex items-center text-gray-400 hover:text-white transition-colors duration-200","children":[["$","svg",null,{"className":"mr-2 w-5 h-5","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 19l-7-7m0 0l7-7m-7 7h18"}]}],"블로그 목록으로 돌아가기"]}]}],["$","header",null,{"className":"mb-12","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-4","children":[["$","span","React.js",{"className":"px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm font-medium","children":"React.js"}],["$","span","javascript",{"className":"px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm font-medium","children":"javascript"}]]}],"$L1a","$L1b"]}],"$L1c","$L1d","$L1e"]}]]}]
+1f:I[82787,["590","static/chunks/0dbeb660-c36e335de0d55418.js","2619","static/chunks/2619-04bc32f026a0d946.js","7485","static/chunks/7485-0e57fd9e4a68a3f7.js","5953","static/chunks/app/blog/%5Bslug%5D/page-d3d26fb3dc9355df.js"],"default"]
+23:I[50528,["590","static/chunks/0dbeb660-c36e335de0d55418.js","2619","static/chunks/2619-04bc32f026a0d946.js","7485","static/chunks/7485-0e57fd9e4a68a3f7.js","5953","static/chunks/app/blog/%5Bslug%5D/page-d3d26fb3dc9355df.js"],"default"]
+1a:["$","h1",null,{"className":"text-4xl md:text-5xl font-bold text-white mb-4 leading-tight","children":"React의 API들을 좀더 쉽게 연관짓기"}]
+1b:["$","div",null,{"className":"flex items-center text-gray-400 text-sm","children":[["$","svg",null,{"className":"mr-2 w-4 h-4","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"}]}],"2025년 10월 23일"]}]
+20:T22f5,<h1>왜 이런 이야기를 하는건가?</h1>
+<p>오늘 집에가다 든 생각이다.</p>
+<p>프론트엔드 개발자가 하루종일 React만 쓰는 것은 아니고, 물론 계속해서 따라가면 좋겠지만 모든 API 들을 적절한 상황 속에서 계속 실무에 팔로업하기는 어려울 수 있다고 생각한다. 이걸 어떻게 쉽게 설명할 수 있고 연관관계를 상상할 수 있게 만들 수 있을까?</p>
+<p>그래도 시간 투자하면 따라갈 순 있지만 근본적으로 왜 점점 기억해야할게 많아지고 API간의 관계성이 깊어지는 이슈로 암기가 될것만 같다.</p>
+<p>어려워지는 것 같다는 이야기를 오히려 듣고 있다.</p>
+<p><em>(오히려 재미있는 메모라이징 과정을 React Compiler로 자동화해주려고 하다니.. 약간의 슬픔과 걱정 한방울)</em></p>
+<h2>어려워지는 이유</h2>
+<p>React는 Library이다. 실제로 React.dev에만 가도 Library라고 명시하고있다.</p>
+<blockquote>
+<p>The library for web and native user interfaces</p>
+</blockquote>
+<p>하지만 여러가지 이유로 헷갈릴 수 있지만 누군가는 프레임워크라고 하시는 분들도 있는걸로 알고있다.</p>
+<p>그 이유는 개인적으로 너무 프레임워크처럼 &#39;매지컬&#39;하기 떄문이라고 생각한다.</p>
+<p>프레임워크는 우리가 모르지 않아도 알아서 많은 일을 해주는 도구의 집합이지만..</p>
+<p>그냥 단순하게 생각하면 <strong>이렇게 작성하면 저렇게 동작한다</strong>라는 접근법으로 초급개발자부터 튜토리얼을 따라하면서 프레임워크를 접하게 된다. React가 딱 그런 상태인 것같다.</p>
+<p>우리는 항상 최신 패키지를 사용하는 것 또한 아니고, 관심있게 모두 팔로업하면 좋겠지만 현업에서 중요도에 따라 밀리기도 한다.</p>
+<p>예전에는 단순히 라이프사이클, 렌더링을 어떻게 최적화 했는지 정도였지만 이제는 다양한 피쳐들의 (매지컬한)상호관계 떄문에 그렇게 느끼는 것 같다.</p>
+<h2>매지컬하면 쉬운데 어려워지는 이유</h2>
+<p>아까 이야기한것 처럼 <strong>이렇게 작성하면 저렇게 동작한다</strong> 라는 것 자체를 쫓아가는 것도 힘들어질 수 있다. 혹은 잘 모르지만 그렇게 동작하더라 식 개발도 가능해진다. 마치 내가 개발을 처음 접했을 때 .NET MVC를 마주했을 때 그런 느낌이었다.</p>
+<p><em>.NET MVC는 파일의 패턴과 위치만 가지고도 많은 부분 위임해서 직접 해주는 역할을 하고 있었다.(커스텀도 가능하고 등등 가능했지만) 이게 개발할 땐 정말 편해도 잘 몰라도 잘 되니까 더더욱 게을러지고 그냥 넘기게 되었던 부분이 오히려 나의 찾아보려는, 이해하려는 욕구를 막고 안좋은 버릇이 들었을 때도 있었던 것 같다.</em></p>
+<p>React도 마찬가지인 것 같다. 엣지 포인트의 사이사이에 API를 추가해주는건 좋지만 혹시 러닝커브가 너무 올라가는게 아닐까? 여러 API들과 <code>React.Suspense</code>의 관계도 그렇게 보이진 않을까? 라는 생각이 들기 시작했다.(아닐 수..도?) React Compiler의 메모라이징 자동화도 앞으로 누군가에겐 매지컬하게 보일 수도 있을 것 같다.</p>
+<p><em>매지컬한게 나쁜건 아니라고 생각하는데(오히려 좋은 점이 많지만) 어쨋든 상호관계를 잘 기억하고 머릿속에 정리하고있으며 <strong>이해</strong>를 하고 있길 원하는게 나도, 나를 평가하는 사람도, 내 동료들도 원하는바가 아닐까 싶다.</em></p>
+<p>이제는 동작 방식에 대한 이해를 하고있느냐의 문제가 아니라 상호 관계를 알아야 쓸 수 있는 요소들이 있다.</p>
+<h2>아무튼 그래서 집에가다 든 생각이..</h2>
+<p><em>잡소리가 너무 긴거같은데...아무튼.. 이런 생각을 하고서 해보고싶었던게..</em></p>
+<p>이걸 브레인 스토밍 하는 것처럼 서로 연결짓는 방식으로 해두면 좀더 이해하기 쉽지 않을까 싶었다.</p>
+<p>내가 알더라도 다시 한번 내가 아는 것을 의심하고자.. 한번 AI 딥리서치로 만들어보면 어떨까 싶어서 오자마자 지금 그려보았는데..</p>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-0"></div>
+
+<p>아니 다 해달라고 하니까 너무 길다 ㅋㅋ 그럼 좀 잘라서 문서화 해달라고 요청해보자 (오푸스야 힘내렴)</p>
+<h2>그래서 정리된 버전</h2>
+<p>각각 좀 쪼개서 달라고 하니까 주절주절 수다를 적다보니 딥리서치에서 나온걸 복붙해본다.</p>
+<p>정말 내용이 맞는지 스스로 확인해보면서 공부하면 좋을 것 같다.</p>
+<p>혹은 더 나아가서 스스로 한번 그려보는 것도, 도움이 될 것 같다. 스터디하면 가끔 브레인스토밍으로 머리 속에 부족한 그레이 영역을 찾아낼 수 있어서 항상 효과가 좋았던 것 같다.</p>
+<p>이참에 나도 다시한번 들여다보길, vscode로는 마크다운 프리뷰로 봐도 약간 보기 힘들어서 올려놓고 봐야지 싶다.</p>
+<h3>전체 API 구조도(간소화)</h3>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-1"></div>
+
+<h3>1. 상태관리</h3>
+<ul>
+<li>useState → useReducer: 상태 로직이 복잡해지면 useReducer로 전환</li>
+<li>useState → useOptimistic: 서버 응답 전 UI를 미리 업데이트</li>
+<li>Server Action → useActionState: 서버 액션의 pending, error, data 상태 관리</li>
+<li>useSyncExternalStore: Redux 등 외부 저장소와 React 동기화</li>
+</ul>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-2"></div>
+
+<h3>2. Context</h3>
+<p>값 변경 시 모든 구독자가 리렌더링됨</p>
+<ul>
+<li>createContext → Context: Context 객체 생성</li>
+<li>Provider → useContext: Hook을 통한 값 소비 (권장)</li>
+<li>Provider → Consumer: Render prop 패턴 (레거시)</li>
+<li>use Hook: React 19의 새로운 Context 읽기 방식</li>
+</ul>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-3"></div>
+
+<h3>3. Suspense &amp; Async (비동기 처리)</h3>
+<ul>
+<li>lazy → Suspense: 동적 임포트된 컴포넌트 로딩</li>
+<li>use → Suspense: Promise를 throw하여 Suspense 트리거</li>
+<li>Suspense → ErrorBoundary: 에러 발생 시 가장 가까운 ErrorBoundary로 전파</li>
+<li>useTransition: Suspense와 함께 사용하여 로딩 상태 제어</li>
+</ul>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-4"></div>
+
+<h3>4. Ref System (Ref 관리)</h3>
+<ul>
+<li>useRef: DOM 접근 + 렌더링과 무관한 값 저장</li>
+<li>forwardRef: 컴포넌트가 ref를 받을 수 있도록 함</li>
+<li>useImperativeHandle: ref를 통해 노출할 인스턴스 값 커스터마이징</li>
+<li>부모가 자식의 메서드를 호출할 수 있게 함</li>
+</ul>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-5"></div>
+
+<h3>5. Performance Optimization (성능 최적화)</h3>
+<ul>
+<li>React.memo: props가 변경되지 않으면 리렌더링 스킵</li>
+<li>useMemo: 비싼 계산의 결과를 메모이제이션</li>
+<li>useCallback: 함수 참조를 유지하여 불필요한 리렌더링 방지</li>
+<li>useCallback + memo 조합: 자식 컴포넌트 리렌더링 최적화</li>
+</ul>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-6"></div>
+
+<h3>6. Effects System (부수 효과)</h3>
+<ul>
+<li>useEffect: Paint 이후 비동기로 실행 (대부분의 경우 사용)</li>
+<li>useLayoutEffect: Paint 이전 동기로 실행 (DOM 측정 필요시)</li>
+<li>useInsertionEffect: 모든 DOM 변경 이전 (CSS-in-JS 라이브러리용)</li>
+<li>모든 Effect는 클린업 함수 반환 가능</li>
+</ul>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-7"></div>
+
+<h3>7. Concurrent Features (동시성 기능)</h3>
+<ul>
+<li>useTransition: 상태 업데이트를 논블로킹으로 처리</li>
+<li>startTransition: Hook 외부에서 사용하는 명령형 버전</li>
+<li>useDeferredValue: 값의 업데이트를 지연시켜 UI 반응성 유지</li>
+<li>isPending: 트랜지션 진행 중인지 확인</li>
+</ul>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-8"></div>
+
+<h3>8. Server Components &amp; Actions (React 19)</h3>
+<ul>
+<li>Server Component: 서버에서 실행, 직접 데이터베이스 접근 가능</li>
+<li>Server Action: &#39;use server&#39; 지시어로 서버에서 실행되는 함수</li>
+<li>useActionState: Server Action의 상태(pending, error, data) 관리</li>
+<li>useOptimistic: 서버 응답 전 UI를 낙관적으로 업데이트</li>
+</ul>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-9"></div>
+
+<h3>9. Hook Dependencies &amp; Rules</h3>
+<div class="mermaid-placeholder" data-mermaid-id="mermaid-10"></div>
+21:T11cb,graph TB
+    %% Core Components & Concepts
+    Component[Component]
+    JSX[JSX]
+
+    %% Suspense & Async
+    Suspense[Suspense]
+    lazy[lazy]
+    use[use Hook]
+    ErrorBoundary[Error Boundary]
+
+    %% State Management
+    useState[useState]
+    useReducer[useReducer]
+    useOptimistic[useOptimistic]
+    useActionState[useActionState]
+
+    %% Context System
+    createContext[createContext]
+    Context[Context]
+    Provider[Context.Provider]
+    Consumer[Context.Consumer]
+    useContext[useContext]
+
+    %% Ref System
+    createRef[createRef]
+    useRef[useRef]
+    forwardRef[forwardRef]
+    useImperativeHandle[useImperativeHandle]
+
+    %% Effects
+    useEffect[useEffect]
+    useLayoutEffect[useLayoutEffect]
+    useInsertionEffect[useInsertionEffect]
+
+    %% Performance Optimization
+    memo[memo]
+    useMemo[useMemo]
+    useCallback[useCallback]
+
+    %% Concurrent Features
+    startTransition[startTransition]
+    useTransition[useTransition]
+    useDeferredValue[useDeferredValue]
+
+    %% Server Components (React 19)
+    ServerComponent[Server Component]
+    ClientComponent[Client Component]
+    ServerAction[Server Action]
+
+    %% Other Utilities
+    Fragment[Fragment]
+    StrictMode[StrictMode]
+    Profiler[Profiler]
+    useId[useId]
+    useSyncExternalStore[useSyncExternalStore]
+
+    %% Portals
+    createPortal[createPortal]
+
+    %% === RELATIONSHIPS === %%
+
+    %% Component Relationships
+    Component -->|"렌더링 기반"|JSX
+    Component -->|"최적화 래핑"|memo
+    Component -->|"에러 처리"|ErrorBoundary
+
+    %% Suspense Relationships
+    use -->|"Promise 해결 대기"|Suspense
+    lazy -->|"동적 로딩 경계"|Suspense
+    Suspense -->|"에러 폴백"|ErrorBoundary
+    ServerComponent -->|"스트리밍 렌더"|Suspense
+
+    %% Context Relationships
+    createContext -->|"생성"|Context
+    Context -->|"값 제공"|Provider
+    Context -->|"값 소비"|Consumer
+    useContext -->|"Hook으로 소비"|Context
+    Provider -->|"값 전파"|useContext
+    Provider -->|"값 전파"|Consumer
+
+    %% State Management
+    useState -->|"복잡한 로직"|useReducer
+    useOptimistic -->|"낙관적 업데이트"|useTransition
+    useActionState -->|"폼 액션 상태"|ServerAction
+    ServerAction -->|"상태 변경"|useActionState
+
+    %% Ref Relationships
+    createRef -->|"클래스 컴포넌트용"|Component
+    useRef -->|"함수 컴포넌트용"|Component
+    forwardRef -->|"ref 전달"|useRef
+    forwardRef -->|"ref 전달"|createRef
+    useImperativeHandle -->|"ref 커스터마이징"|forwardRef
+
+    %% Effect Relationships
+    useEffect -->|"DOM 업데이트 후"|Component
+    useLayoutEffect -->|"DOM 업데이트 전"|Component
+    useInsertionEffect -->|"CSS-in-JS"|useLayoutEffect
+
+    %% Performance Optimization
+    useMemo -->|"값 메모이제이션"|Component
+    useCallback -->|"함수 메모이제이션"|Component
+    memo -->|"props 비교"|useMemo
+    memo -->|"리렌더링 방지"|useCallback
+
+    %% Concurrent Features
+    startTransition -->|"우선순위 낮춤"|useState
+    useTransition -->|"Hook 버전"|startTransition
+    useDeferredValue -->|"값 지연"|useState
+    useTransition -->|"논블로킹 업데이트"|Suspense
+
+    %% Server/Client Boundary
+    ServerComponent -->|"직렬화 전달"|ClientComponent
+    ClientComponent -->|"하이드레이션"|useEffect
+    ServerAction -->|"서버 실행"|ServerComponent
+    ServerAction -->|"클라이언트 호출"|ClientComponent
+
+    %% Utility Relationships
+    Fragment -->|"다중 엘리먼트"|JSX
+    StrictMode -->|"개발 검증"|Component
+    Profiler -->|"성능 측정"|Component
+    useId -->|"고유 ID 생성"|Component
+    useSyncExternalStore -->|"외부 저장소 동기화"|useState
+
+    %% Portal Relationships
+    createPortal -->|"DOM 외부 렌더"|Component
+
+    %% Hook Dependencies
+    useEffect -->|"클린업 함수"|useCallback
+    useContext -->|"리렌더링 트리거"|Provider
+    useMemo -->|"의존성 배열"|useCallback
+    use -->|"컨텍스트 읽기"|Context
+
+
+
+    class useState,useReducer,useEffect,useLayoutEffect,useContext,useMemo,useCallback,useRef,useImperativeHandle,useTransition,useDeferredValue,useId,useSyncExternalStore,useOptimistic,useActionState,use,useInsertionEffect hook
+    class Component,Suspense,ErrorBoundary,Fragment,StrictMode,Profiler,memo,lazy component
+    class createContext,Context,Provider,Consumer context
+    class startTransition,useTransition,useDeferredValue concurrent
+    class ServerComponent,ClientComponent,ServerAction server22:T443,graph TD
+    subgraph "Core"
+        Component[Component/JSX]
+    end
+
+    subgraph "Hooks"
+        StateHooks[State Hooks<br/>useState/useReducer]
+        EffectHooks[Effect Hooks<br/>useEffect/useLayoutEffect]
+        OptimizationHooks[Optimization Hooks<br/>useMemo/useCallback]
+        ContextHook[useContext]
+        RefHooks[Ref Hooks<br/>useRef/useImperativeHandle]
+    end
+
+    subgraph "Advanced"
+        SuspenseSystem[Suspense System<br/>Suspense/lazy/use]
+        ContextSystem[Context System<br/>createContext/Provider]
+        ConcurrentFeatures[Concurrent Features<br/>useTransition/useDeferredValue]
+    end
+
+    subgraph "React 19"
+        ServerComponents[Server Components]
+        ServerActions[Server Actions]
+        NewHooks[useOptimistic<br/>useActionState]
+    end
+
+    Component --> StateHooks
+    Component --> EffectHooks
+    Component --> OptimizationHooks
+    ContextSystem --> ContextHook
+    Component --> RefHooks
+    Component --> SuspenseSystem
+    ServerComponents --> ServerActions
+    ServerActions --> NewHooks
+    ConcurrentFeatures --> SuspenseSystem1c:["$","$L1f",null,{"content":"$20","mermaidBlocks":[{"id":"mermaid-0","code":"$21"},{"id":"mermaid-1","code":"$22"},{"id":"mermaid-2","code":"graph LR\n    subgraph \"Basic State\"\n        useState[useState]\n        useReducer[useReducer]\n    end\n\n    subgraph \"React 19 State\"\n        useOptimistic[useOptimistic]\n        useActionState[useActionState]\n    end\n\n    subgraph \"External State\"\n        useSyncExternalStore[useSyncExternalStore]\n    end\n\n    useState -->|\"복잡한 로직 필요시\"|useReducer\n    useState -->|\"낙관적 업데이트\"|useOptimistic\n    ServerAction[Server Action] -->|\"폼 상태 관리\"|useActionState\n    ExternalStore[외부 저장소] -->|\"동기화\"|useSyncExternalStore\n    useSyncExternalStore -->|\"리렌더링\"|useState"},{"id":"mermaid-3","code":"graph TD\n    createContext[createContext] -->|\"생성\"|Context[Context Object]\n    Context -->|\"제공\"|Provider[Context.Provider]\n    Context -->|\"구독\"|Consumer[Context.Consumer]\n\n    Provider -->|\"값 전파\"|useContext[useContext Hook]\n    Provider -->|\"값 전파\"|Consumer\n\n    useContext -->|\"리렌더링\"|Component1[Component A]\n    Consumer -->|\"리렌더링\"|Component2[Component B]\n\n    Provider -->|\"값 변경시\"|Rerender[모든 구독자<br/>리렌더링]\n\n    use[use Hook<br/>React 19] -->|\"Context 읽기\"|Context"},{"id":"mermaid-4","code":"graph TB\n    subgraph \"Triggers\"\n        lazy[lazy<br/>동적 임포트]\n        use[use Hook<br/>Promise/Context]\n        DataFetch[Data Fetching]\n    end\n\n    subgraph \"Boundary\"\n        Suspense[Suspense<br/>로딩 경계]\n        ErrorBoundary[ErrorBoundary<br/>에러 경계]\n    end\n\n    subgraph \"States\"\n        Loading[Loading<br/>fallback UI]\n        Error[Error<br/>error UI]\n        Success[Success<br/>실제 컴포넌트]\n    end\n\n    lazy -->|\"컴포넌트 로딩\"|Suspense\n    use -->|\"Promise throw\"|Suspense\n    DataFetch -->|\"pending\"|Suspense\n\n    Suspense -->|\"로딩중\"|Loading\n    Suspense -->|\"완료\"|Success\n    Suspense -->|\"에러 발생\"|ErrorBoundary\n    ErrorBoundary -->|\"에러 캐치\"|Error\n\n    useTransition[useTransition] -->|\"로딩 상태 제어\"|Suspense\n    ServerComponent[Server Component] -->|\"스트리밍 렌더\"|Suspense"},{"id":"mermaid-5","code":"graph LR\n    subgraph \"Creation\"\n        createRef[createRef<br/>클래스용]\n        useRef[useRef<br/>함수형용]\n    end\n\n    subgraph \"Forwarding\"\n        forwardRef[forwardRef<br/>ref 전달]\n        useImperativeHandle[useImperativeHandle<br/>ref 커스터마이징]\n    end\n\n    subgraph \"Usage\"\n        DOM[DOM 요소 접근]\n        Value[값 저장<br/>렌더링 무관]\n        ChildRef[자식 컴포넌트<br/>메서드 호출]\n    end\n\n    createRef -->|\"클래스 컴포넌트\"|DOM\n    useRef -->|\"함수 컴포넌트\"|DOM\n    useRef -->|\"값 보관\"|Value\n\n    ParentComponent[부모 컴포넌트] -->|\"ref props\"|forwardRef\n    forwardRef -->|\"ref 전달\"|ChildComponent[자식 컴포넌트]\n    forwardRef -->|\"커스텀 핸들\"|useImperativeHandle\n    useImperativeHandle -->|\"메서드 노출\"|ChildRef"},{"id":"mermaid-6","code":"graph TD\n    subgraph \"Memoization\"\n        memo[React.memo<br/>컴포넌트 메모]\n        useMemo[useMemo<br/>값 메모]\n        useCallback[useCallback<br/>함수 메모]\n    end\n\n    subgraph \"Dependencies\"\n        DepsArray[의존성 배열]\n        PropsCompare[Props 비교]\n    end\n\n    subgraph \"Results\"\n        SkipRender[렌더링 스킵]\n        CachedValue[캐시된 값]\n        CachedFunction[캐시된 함수]\n    end\n\n    Component[Component] -->|\"최적화\"|memo\n    memo -->|\"얕은 비교\"|PropsCompare\n    PropsCompare -->|\"동일하면\"|SkipRender\n\n    ExpensiveCalculation[비싼 연산] -->|\"메모이제이션\"|useMemo\n    useMemo -->|\"deps 체크\"|DepsArray\n    DepsArray -->|\"변경 없으면\"|CachedValue\n\n    EventHandler[이벤트 핸들러] -->|\"메모이제이션\"|useCallback\n    useCallback -->|\"deps 체크\"|DepsArray\n    DepsArray -->|\"변경 없으면\"|CachedFunction\n\n    useCallback -->|\"참조 유지\"|memo\n    useMemo -->|\"값 재사용\"|Component"},{"id":"mermaid-7","code":"graph TB\n    subgraph \"Effect Types\"\n        useEffect[useEffect<br/>비동기 효과]\n        useLayoutEffect[useLayoutEffect<br/>동기 효과]\n        useInsertionEffect[useInsertionEffect<br/>CSS 주입]\n    end\n\n    subgraph \"Lifecycle\"\n        Mount[컴포넌트 마운트]\n        Update[컴포넌트 업데이트]\n        Unmount[컴포넌트 언마운트]\n    end\n\n    subgraph \"Timing\"\n        AfterPaint[Paint 이후]\n        BeforePaint[Paint 이전]\n        BeforeAll[모든 DOM 이전]\n    end\n\n    Mount -->|\"실행\"|useEffect\n    Update -->|\"deps 변경시\"|useEffect\n    useEffect -->|\"타이밍\"|AfterPaint\n    useEffect -->|\"클린업\"|Unmount\n\n    Mount -->|\"실행\"|useLayoutEffect\n    Update -->|\"deps 변경시\"|useLayoutEffect\n    useLayoutEffect -->|\"타이밍\"|BeforePaint\n    useLayoutEffect -->|\"클린업\"|Unmount\n\n    useInsertionEffect -->|\"타이밍\"|BeforeAll\n    useInsertionEffect -->|\"CSS-in-JS\"|useLayoutEffect"},{"id":"mermaid-8","code":"graph LR\n    subgraph \"Priority Control\"\n        useTransition[useTransition<br/>우선순위 제어]\n        startTransition[startTransition<br/>명령형 버전]\n        useDeferredValue[useDeferredValue<br/>값 지연]\n    end\n\n    subgraph \"Updates\"\n        UrgentUpdate[긴급 업데이트<br/>사용자 입력]\n        NonUrgentUpdate[비긴급 업데이트<br/>무거운 작업]\n    end\n\n    subgraph \"UI States\"\n        IsPending[isPending<br/>로딩 상태]\n        DeferredUI[지연된 UI]\n    end\n\n    UrgentUpdate -->|\"즉시 처리\"|UI[UI 업데이트]\n    NonUrgentUpdate -->|\"지연 처리\"|useTransition\n\n    useTransition -->|\"상태 제공\"|IsPending\n    useTransition -->|\"함수 래핑\"|startTransition\n    startTransition -->|\"우선순위 낮춤\"|NonUrgentUpdate\n\n    HeavyValue[무거운 값] -->|\"지연\"|useDeferredValue\n    useDeferredValue -->|\"이전 값 유지\"|DeferredUI\n\n    useTransition -->|\"Suspense 통합\"|Suspense[Suspense]"},{"id":"mermaid-9","code":"graph TB\n    subgraph \"Server Side\"\n        ServerComponent[Server Component<br/>서버 실행]\n        ServerAction[Server Action<br/>'use server']\n        AsyncComponent[Async Component<br/>await 가능]\n    end\n\n    subgraph \"Client Side\"\n        ClientComponent[Client Component<br/>'use client']\n        useActionState[useActionState<br/>액션 상태]\n        useOptimistic[useOptimistic<br/>낙관적 UI]\n    end\n\n    subgraph \"Data Flow\"\n        Serialization[직렬화<br/>RSC Payload]\n        Hydration[하이드레이션]\n        FormAction[폼 액션]\n    end\n\n    ServerComponent -->|\"데이터 페칭\"|AsyncComponent\n    ServerComponent -->|\"직렬화\"|Serialization\n    Serialization -->|\"전송\"|ClientComponent\n    ClientComponent -->|\"하이드레이션\"|Hydration\n\n    ServerAction -->|\"서버 함수\"|FormAction\n    FormAction -->|\"상태 관리\"|useActionState\n    useActionState -->|\"낙관적 업데이트\"|useOptimistic\n\n    ClientComponent -->|\"RPC 호출\"|ServerAction\n    ServerAction -->|\"결과 반환\"|ClientComponent"},{"id":"mermaid-10","code":"graph TD\n    subgraph \"Hook Rules\"\n        TopLevel[최상위에서만 호출]\n        ReactFunction[React 함수에서만 사용]\n        OrderMatters[호출 순서 일정]\n    end\n\n    subgraph \"Dependency Array\"\n        EmptyDeps[\"[]<br/>마운트 시 1회\"]\n        NoDeps[deps 없음<br/>매 렌더링]\n        SpecificDeps[\"[a, b]<br/>a, b 변경시\"]\n    end\n\n    subgraph \"Common Patterns\"\n        EffectCleanup[useEffect → cleanup]\n        CallbackMemo[useCallback → memo]\n        ContextProvider[Provider → useContext]\n        RefForward[forwardRef → useImperativeHandle]\n    end\n\n    TopLevel --> AllHooks[모든 Hooks]\n    ReactFunction --> AllHooks\n    OrderMatters --> AllHooks\n\n    useEffect -->|\"의존성\"|EmptyDeps\n    useMemo -->|\"의존성\"|SpecificDeps\n    useCallback -->|\"의존성\"|SpecificDeps\n\n    EffectCleanup -->|\"언마운트/deps 변경\"|Cleanup[정리 함수]\n    CallbackMemo -->|\"참조 유지\"|Performance[성능 최적화]\n    ContextProvider -->|\"값 변경\"|Rerender[리렌더링]\n    RefForward -->|\"커스텀 메서드\"|ImperativeAPI[명령형 API]"}]}]
+1d:["$","footer",null,{"className":"mt-16 pt-8 border-t border-gray-700","children":["$","div",null,{"className":"flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4","children":[["$","div",null,{"className":"text-gray-400 text-sm","children":["$","p",null,{"children":"읽어주셔서 감사합니다. 틀린 내용은 언제든지 댓글로 알려주세요."}]}],["$","div",null,{"className":"flex space-x-4","children":[["$","$L19",null,{"href":"/blog","className":"px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors duration-200","children":"다른 포스트 보기"}],["$","$L19",null,{"href":"/","className":"px-4 py-2 border border-gray-600 hover:bg-gray-800 text-gray-300 font-medium rounded-lg transition-colors duration-200","children":"홈으로"}]]}]]}]}]
+1e:["$","$L23",null,{}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+24:I[80622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"React의 API들을 좀더 쉽게 연관짓기 | msm.dev"}],["$","meta","1",{"name":"description","content":"너무 매지컬해진 React, 좀더 쉽게 생각해볼 수 없을까?"}],["$","meta","2",{"name":"author","content":"MSM"}],["$","meta","3",{"name":"keywords","content":"React.js,javascript"}],["$","meta","4",{"property":"og:title","content":"React의 API들을 좀더 쉽게 연관짓기"}],["$","meta","5",{"property":"og:description","content":"너무 매지컬해진 React, 좀더 쉽게 생각해볼 수 없을까?"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-10-23"}],["$","meta","8",{"property":"article:tag","content":"React.js"}],["$","meta","9",{"property":"article:tag","content":"javascript"}],["$","meta","10",{"name":"twitter:card","content":"summary"}],["$","meta","11",{"name":"twitter:title","content":"React의 API들을 좀더 쉽게 연관짓기"}],["$","meta","12",{"name":"twitter:description","content":"너무 매지컬해진 React, 좀더 쉽게 생각해볼 수 없을까?"}],["$","link","13",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L24","14",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"
